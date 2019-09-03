@@ -1,0 +1,15 @@
+h1 {
+    color: aqua;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+h4 {
+    font-weight: 300;
+    font-size: 20;
+    font-style: italic;
+}
+
+p {
+    font-size: 12px;
+}
